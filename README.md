@@ -2,12 +2,12 @@
 
 ![C++](https://img.shields.io/badge/C++-17-blue.svg) ![SDL3](https://img.shields.io/badge/SDL3-Latest-red.svg) ![Size](https://img.shields.io/badge/Size-1.84_MB-brightgreen.svg)
 
-**DESYNC** is a micro-sized (only 1.84 MB!) pseudo-3D action/survival game built entirely from scratch using C++ and SDL3. Players must survive incoming waves of enemies while keeping their system's "Sync" level under control. As the system synchronization breaks down, the game's audio and visual atmosphere dynamically glitch and degrade.
+**DESYNC** is a micro-sized (only 1.63 MB!) pseudo-3D action/survival game built entirely from scratch using C++ and SDL3. Players must survive incoming waves of enemies while keeping their system's "Sync" level under control. As the system synchronization breaks down, the game's audio and visual atmosphere dynamically glitch and degrade.
 
 ## 📥 Download and Play
 
 To jump right into the action without compiling the source code:
-1. Go to the **[Releases](https://github.com/burakenesportakal/DESYNC/releases/tag/Game)** tab on the right side of this repository. *(Note to Burak: Add your release link here)*
+1. Go to the **[Releases](https://github.com/burakenesportakal/DESYNC/releases/tag/Game)** tab on the right side of this repository.
 2. Download the `DESYNC.rar` file from the latest release.
 3. Extract the archive and double-click `SelfDistruction.exe` to start playing! *(No installation required).*
 
