@@ -1,0 +1,8 @@
+﻿  Game.cpp
+C:\Users\burak\OneDrive\Masaüstü\DESYNC\DESYNC\DESYNC\Game.cpp(192,28): warning C4305: '=': truncation from 'double' to 'float'
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 368 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DESYNC.vcxproj -> C:\Users\burak\OneDrive\Masaüstü\DESYNC\DESYNC\x64\Release\DESYNC.exe

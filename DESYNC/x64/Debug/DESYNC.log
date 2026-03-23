@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\burak\OneDrive\Masaüstü\DESYNC\DESYNC\DESYNC\Game.cpp(192,28): warning C4305: '=': truncation from 'double' to 'float'
+  main.cpp
+  Generating Code...
+  DESYNC.vcxproj -> C:\Users\burak\OneDrive\Masaüstü\DESYNC\DESYNC\x64\Debug\DESYNC.exe
