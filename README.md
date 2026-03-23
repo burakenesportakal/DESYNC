@@ -1,4 +1,4 @@
-# DESYNC 🗡️
+# DESYNC 
 
 ![C++](https://img.shields.io/badge/C++-17-blue.svg) ![SDL3](https://img.shields.io/badge/SDL3-Latest-red.svg) ![Size](https://img.shields.io/badge/Size-1.84_MB-brightgreen.svg)
 
