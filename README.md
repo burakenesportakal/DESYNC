@@ -1,6 +1,6 @@
 # DESYNC 
 
-![C++](https://img.shields.io/badge/C++-17-blue.svg) ![SDL3](https://img.shields.io/badge/SDL3-Latest-red.svg) ![Size](https://img.shields.io/badge/Size-1.84_MB-brightgreen.svg)
+![C++](https://img.shields.io/badge/C++-17-blue.svg) ![SDL3](https://img.shields.io/badge/SDL3-Latest-red.svg) ![Size](https://img.shields.io/badge/Size-1.63_MB-brightgreen.svg)
 
 **DESYNC** is a micro-sized (only 1.63 MB!) pseudo-3D action/survival game built entirely from scratch using C++ and SDL3. Players must survive incoming waves of enemies while keeping their system's "Sync" level under control. As the system synchronization breaks down, the game's audio and visual atmosphere dynamically glitch and degrade.
 
